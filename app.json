@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "videoCall",
+    "slug": "videoCall",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.anonymous.videoCall"
+    },
+    "ios": {
+      "bundleIdentifier": "com.anonymous.videoCall"
+    }
+  }
+}
